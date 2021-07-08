@@ -1,0 +1,16 @@
+body {
+    color: white; 
+    background-color: #414141;
+}
+
+html, body {
+    min-height: 100vh;
+}
+
+.title, .label, .radio:hover {
+    color: white;
+}
+
+#logo {
+    width: 200px;
+}
