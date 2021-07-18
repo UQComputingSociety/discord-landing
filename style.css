@@ -5,6 +5,7 @@ body {
 
 html, body {
     min-height: 100vh;
+    overflow: hidden;
 }
 
 .title, .label, .radio:hover {
